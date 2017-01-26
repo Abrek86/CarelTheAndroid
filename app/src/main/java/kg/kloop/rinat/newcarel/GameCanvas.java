@@ -51,5 +51,5 @@ public class GameCanvas extends Object {
         return carel + carelHead;
     }
 
-    private TextView view = null;
+    private TextView view;
 }

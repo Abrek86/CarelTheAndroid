@@ -7,10 +7,10 @@ package kg.kloop.rinat.newcarel;
 public class CarelGrid extends Object {
 
     public CarelGrid() {
-        map = new int[6][4];
-        map[1][1] = 1;
-        map [3][3] = 1;
-        map [3] [2] = 1;
+        map = new int[5][4];
+        //map[1][1] = 1;
+        //map [3][3] = 1;
+        //map [3] [2] = 1;
     }
 
     public int getWidth() {
